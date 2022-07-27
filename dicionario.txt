@@ -1,0 +1,23 @@
+Dicionário Git e GitHub
+
+Git => Software de versionamento de arquivos
+
+GitHub => Repositório Remoto (online) do git
+
+GitHub Desktop => Interface amigável do git
+
+*****************************************************
+
+commit => salvar/confirmar alterações / criar um ponto de versionamento
+
+push => fazer upload do repositório local (git) para o repositório remoto (github)
+
+pull => fazer download das modificações do remoto para o local (igualar os repositórios)
+
+fetch => comparar a versão local com a versão remota para então decidir se é necessário fazer um push ou um pull
+
+origin => remoto
+
+branch => são cópias do repositório onde é possível fazer modificações sem alterar o arquivo original
+
+merge => é unificar/juntar os arquivos de uma branch com os arquivos originais (quando é feito isso o git faz uma verificação de duplicidades e te notifica)

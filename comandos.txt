@@ -1,0 +1,15 @@
+COMANDOS:
+
+git init => inicializa o git na pasta/ inicializa o versionamento da pasta/arquivo
+
+git add <arquivo> => prepara o arquivo para ser comitado
+
+git add . => prepara todos os arquivos da pasta para serem comitados
+
+git commit -m "mensagem" => realiza o commit *obs: trocar "mensagem" pela mensagem do seu commit
+**obs 2: ao realizar o commit todos os arquivos que foram adicionados serão comitados.
+
+git remote add origin "link do repositório remoto" => vincula o arquivo local ao repositório remoto
+
+git push -u origin master => faz o push dos arquivos para o repositório remoto vinculado
+*obs: para fazer o push via comando é necessário ter o repositório criado no github previamente.
