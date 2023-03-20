@@ -13,3 +13,6 @@ git remote add origin "link do repositório remoto" => vincula o arquivo local a
 
 git push -u origin master => faz o push dos arquivos para o repositório remoto vinculado
 *obs: para fazer o push via comando é necessário ter o repositório criado no github previamente.
+
+git config --globa user.name <nome do usuário github> => definir o usuário git na maquina local
+git config --globa user.email <email do usuário github> => definir o email git na maquina local
