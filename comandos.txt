@@ -16,3 +16,5 @@ git push -u origin master => faz o push dos arquivos para o repositório remoto 
 
 git config --globa user.name <nome do usuário github> => definir o usuário git na maquina local
 git config --globa user.email <email do usuário github> => definir o email git na maquina local
+
+git branch -m  main
